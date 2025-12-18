@@ -1,5 +1,4 @@
-import typopo from 'typopo';
-const { fixTypos } = typopo;
+import { fixTypos } from 'typopo';
 
 import { visit } from 'unist-util-visit';
 

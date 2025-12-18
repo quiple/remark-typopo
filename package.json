@@ -54,6 +54,7 @@
     "release": "npx bumpp --tag %s --commit 'chore: release %s' --all"
   },
   "dependencies": {
+    "mdast-util-math": "^3.0.0",
     "typopo": "^2.5.8",
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0"
